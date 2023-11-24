@@ -3,7 +3,7 @@ This project is an e-learning exercise written in Unity. The exercise will help 
 
 ## Requirements
 - Multiple choice exercise
-- Sentences will appear on the screen with a word missing.
+- Sentences will appear on the screen with a word missing
 - Two choices will be given two the student to find the correct word
 - Animation must be used to reenforce positive or negative feedbag
 
